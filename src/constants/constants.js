@@ -4,8 +4,8 @@ export const projects = [
     description: "Crowdfunded ~76,000 USD. Used Solidity to develop an ERC20 game token where players were rewarded based on community participation and viewership in livestreams on Twitch. Created and hosted a website with a React frontend.",
       image: '/images/1.png',
       tags: ['Solidity', 'React', 'Javascript'],
-    source: 'https://github.com/algutifana/token-examples/blob/main/secondtoken',
-    visit: 'https://github.com/algutifana/token-examples/blob/main/secondtoken',
+    source: 'https://github.com/algutifana/token-examples/blob/main/secondtoken.sol',
+    visit: 'https://github.com/algutifana/token-examples/blob/main/secondtoken.sol',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description:"Crowdfunded ~114,000 USD. Used Solidity to develop an ERC20 token where players could be rewarded based on a randomly-generated dice roll. Dice roll used a hash for fairness verification. Created and hosted a website with a React frontend.",
     image: '/images/2.png',
     tags: ['Solidity', 'React', 'JavaScript'],
-    source: 'https://github.com/algutifana/token-examples/blob/main/firsttoken',
-    visit: 'https://github.com/algutifana/token-examples/blob/main/firsttoken',
+    source: 'https://github.com/algutifana/token-examples/blob/main/firsttoken.sol',
+    visit: 'https://github.com/algutifana/token-examples/blob/main/firsttoken.sol',
     id: 1,
   },
   {
