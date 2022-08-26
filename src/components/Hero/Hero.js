@@ -17,7 +17,7 @@ const Hero = (props) => (
         I am a Full Stack Developer and Software Engineering student at the University of Missouri looking for an internship or a full-time position.  
       </SectionText>
       
-      <a href = 'images/aaronresumenewgrad.pdf' download = 'Aaron Algutifan Resume'>
+      <a href = 'images/internship.pdf' download = 'Aaron Algutifan Resume'>
       <Button>Download Resume!</Button>
       </a>
 
